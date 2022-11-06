@@ -1,4 +1,4 @@
-Welcome to My pathfinding-algorithm
+Welcome to my Optimal-pathfinding-algorithm maze
 
 
 Here is the link http://127.0.0.1:8887/
